@@ -1,7 +1,7 @@
-<img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/logo.png" alt="">  
+### Hi, I'm Mariia 👩🏻‍💻 = 👩🏻‍🎨 + 👩🏻‍🔧 + ☕ 
 
-### Hi, I'm Mariia 👩🏻‍💻 = 👩🏻‍🎨 + 👩🏻‍🔧 + ☕  
-As a software engineer with background in design and an education volunteer, I focus on creative problem-solving at the intersection of technology and social impact. I am dedicated to using innovative tools to automate the accessibility of resources by building applications that matter. I am currently working on the voice-assisted online learning platform for providing educational resources to the visually challenged users. I am excited to collaborate and share ideas with colleagues and thinkers around me!
+<img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/logo.png" alt="">   
+As a software engineer with design background and an education volunteer, I focus on creative problem-solving at the intersection of technology and social impact. I am dedicated to using innovative tools to automate the accessibility of resources by building applications that matter. I am currently working on the voice-assisted online learning platform for providing educational resources to the visually challenged users. I am excited to collaborate and share ideas with colleagues and thinkers around me!
 
 ###
 
