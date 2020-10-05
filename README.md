@@ -1,6 +1,5 @@
 ## Hi, I'm Mariia  👩🏻‍💻 = 👩🏻‍🎨 + 👩🏻‍🔧 + ☕ 
 
-<img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/mr.png" alt="">   
 I'm a software engineer with a background in design. My interests span humanities and STEM, industry and academia, human-computer interaction, intuitive design, and personal computing. I believe in making tech for social good. I love to work on products that are accessible and inclusive to everyone. I'm excited to collaborate and share ideas with colleagues and thinkers around me! 
 
 ###
