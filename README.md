@@ -4,9 +4,9 @@ I'm a software engineer with a background in design. My interests span humanitie
 
 ###
 
-<a href="https://mariiaromaniuk.github.io" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/www.png" alt="Website" width="30"></a>
-<a href="https://www.linkedin.com/in/mariiaromaniuk/" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/in.png" alt="LinkedIn" width="30"></a>
-<a href="https://www.facebook.com/m.romaniiuk/" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/fb.png" alt="Facebook" width="30"></a>
-<a href="https://www.instagram.com/masha_zhukova/" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/ig.png" alt="Instagram" width="30"></a>
-<a href="https://twitter.com/mariiaromaniuk" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/tw.png" alt="Twitter" width="30"></a>
-<a href="https://github.com/mariiaromaniuk" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/git.png" alt="GitHub" width="30"></a>
+<a href="https://mariiaromaniuk.github.io" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/www2.png" alt="Website" width="30"></a>
+<a href="https://www.linkedin.com/in/mariiaromaniuk/" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/in2.png" alt="LinkedIn" width="30"></a>
+<a href="https://www.facebook.com/m.romaniiuk/" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/fb2.png" alt="Facebook" width="30"></a>
+<a href="https://www.instagram.com/masha_zhukova/" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/ig2.png" alt="Instagram" width="30"></a>
+<a href="https://twitter.com/mariiaromaniuk" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/tw2.png" alt="Twitter" width="30"></a>
+<a href="https://github.com/mariiaromaniuk" target="_blank"><img src="https://github.com/mariiaromaniuk/mariiaromaniuk/blob/master/git2.png" alt="GitHub" width="30"></a>
