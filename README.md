@@ -1,6 +1,6 @@
 ## Hi, I'm Mariia  👩🏻‍💻 = 👩🏻‍🎨 + 👩🏻‍🔧 + ☕ 
 
-I'm a software engineer with a background in design. My interests span humanities and STEM, industry and academia, human-computer interaction, and personal computing. I believe in making tech for social good and love to work on products that are accessible and inclusive to everyone. I'm excited to collaborate and share ideas with colleagues and thinkers around me! 
+I'm a software engineer with a background in design. My interests span humanities and STEM, industry and academia, computer graphics and human-computer interaction. I believe in making tech for social good and love to work on products that are accessible and inclusive to everyone. I'm excited to collaborate and share ideas with colleagues and thinkers around me!
 
 ###
 
